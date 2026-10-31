@@ -1,0 +1,9 @@
+# build artifacts (собираются Build.ps1 вне папки проекта)
+work/
+build/
+*.log
+*.user
+
+# временное
+Thumbs.db
+desktop.ini
